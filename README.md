@@ -2,8 +2,6 @@
 
 This is an example project for a monorepo-paths issue.
 
-
-
 ### Use Vite alias
 
 packages/website/vite.config.ts
@@ -21,6 +19,7 @@ export default defineConfig({
 ```
 
 **Work (dev & build)**
+
 packages/server/src/api/index.ts
 
 ```ts
@@ -35,10 +34,6 @@ packages/server/src/api/index.ts
 export { test } from '@/utils'
 ```
 
-
-
-
-
 ### Use vite-tsconfig-paths
 
 packages/website/vite.config.ts
@@ -50,6 +45,7 @@ export default defineConfig({
 ```
 
 **Work (dev & build)**
+
 packages/server/src/api/index.ts
 
 ```ts
