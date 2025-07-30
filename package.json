@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-paths",
+  "name": "monorepo-paths-issue",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,6 @@
   },
   "keywords": [],
   "author": "molvqingtai",
-  "license": "ISC",
+  "license": "MIT",
   "packageManager": "pnpm@10.5.2"
 }
