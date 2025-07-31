@@ -1,7 +1,7 @@
 # monorepo-paths
 
 This is an example project for a monorepo-paths issue.
-
+https://github.com/aleclarson/vite-tsconfig-paths/issues/187#issuecomment-3137888060
 ### Use Vite alias
 
 packages/website/vite.config.ts
